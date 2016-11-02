@@ -1,5 +1,5 @@
 {
-  "name": "currency exchanger challenge submission",
+  "name": "currency_exchanger_challenge_submission",
   "version": "1.0.0",
   "main": "worker.js",
   "description": "currency exchanger challenge",

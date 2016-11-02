@@ -1,4 +1,7 @@
 {
+  "main": "worker.js",
+  "description": "currency exchanger challenge",
+  "author": "bistik",
   "dependencies": {
     "bluebird": "^3.4.6",
     "co": "^4.6.0",

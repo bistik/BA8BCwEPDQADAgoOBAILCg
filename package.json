@@ -1,4 +1,6 @@
 {
+  "name": "currency exchanger challenge submission",
+  "version": "1.0.0",
   "main": "worker.js",
   "description": "currency exchanger challenge",
   "author": "bistik",

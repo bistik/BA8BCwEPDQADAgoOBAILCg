@@ -19,6 +19,9 @@
     "sinon": "^1.17.6"
   },
   "scripts": {
+      "start":"node worker.js",
+      "dev":"NODE_ENV=local node worker.js",
+      "seed":"node lib/producer.js",
 	  "test": "mocha --reporter spec test",
 	  "lint": "eslint --ext .js ."
   }
